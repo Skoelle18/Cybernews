@@ -42,10 +42,7 @@ JSONL Archive (data/news.jsonl)
 
 ## Installation
 
-1. **Clone the repository** (or navigate to the workspace directory):
-   ```bash
-   cd "Antigravity work"
-   ```
+1. **Clone the repository**:
 
 2. **Create and activate a virtual environment**:
    ```bash
