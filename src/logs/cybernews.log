@@ -1,0 +1,11 @@
+2026-08-11 18:24:14,534 - cybernews.service - INFO - StateManager cache is expired or force refresh requested. Fetching live RSS feeds.
+2026-08-11 18:24:14,534 - cybernews.collectors.rss - INFO - Fetching feed: The Hacker News (https://feeds.feedburner.com/TheHackersNews)
+2026-08-11 18:24:15,363 - cybernews.collectors.rss - INFO - Successfully fetched 50 entries from 'The Hacker News'
+2026-08-11 18:24:15,364 - cybernews.collectors.rss - INFO - Fetching feed: BleepingComputer (https://www.bleepingcomputer.com/feed/)
+2026-08-11 18:24:15,502 - cybernews.collectors.rss - INFO - Successfully fetched 15 entries from 'BleepingComputer'
+2026-08-11 18:24:15,502 - cybernews.collectors.rss - INFO - Fetching feed: Krebs on Security (https://krebsonsecurity.com/feed/)
+2026-08-11 18:24:15,830 - cybernews.collectors.rss - INFO - Successfully fetched 10 entries from 'Krebs on Security'
+2026-08-11 18:24:15,830 - cybernews.collectors.rss - INFO - Fetching feed: Dark Reading (https://www.darkreading.com/rss.xml)
+2026-08-11 18:24:17,108 - cybernews.collectors.rss - INFO - Successfully fetched 50 entries from 'Dark Reading'
+2026-08-11 18:24:17,108 - cybernews.collectors.rss - INFO - Fetching feed: SecurityWeek (https://www.securityweek.com/feed/)
+2026-08-11 18:24:17,459 - cybernews.collectors.rss - INFO - Successfully fetched 10 entries from 'SecurityWeek'

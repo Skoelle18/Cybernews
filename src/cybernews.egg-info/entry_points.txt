@@ -1,0 +1,2 @@
+[console_scripts]
+cybernews = cybernews.cli:app
